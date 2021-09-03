@@ -1,0 +1,8 @@
+COLUMN TABLE "mta.db.tables::Customers" 
+(
+    "ID" INTEGER, 
+    "Name" VARCHAR(100),
+    "Gender" VARCHAR(100),
+    "Age" VARCHAR(100),
+	PRIMARY KEY ("ID") 
+)

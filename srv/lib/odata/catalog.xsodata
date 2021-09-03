@@ -1,0 +1,3 @@
+service namespace "mta.db" {
+	"mta.db.tables::Customers" as "Customers";
+}
